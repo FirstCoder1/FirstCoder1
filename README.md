@@ -117,7 +117,6 @@ Front-End Expert, Full Stack developer with awesome web technical skills, hefty 
   </a>
 </p>
 <hr>
-<br>
 <h4 align="center">🔥 States 🔥</h4>
 <br>
 <p align=center>
