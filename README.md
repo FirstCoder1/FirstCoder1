@@ -11,7 +11,7 @@
 <br>
 
 Front-End Expert, Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For 10 years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
-
+<hr>
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <br>
 
@@ -21,6 +21,7 @@ Front-End Expert, Full Stack developer with awesome web technical skills, hefty 
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
+<hr>
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
 <br>
 <p align="center">
@@ -117,8 +118,7 @@ Front-End Expert, Full Stack developer with awesome web technical skills, hefty 
 </p>
 <hr>
 <br>
-<h4 align="center">🔥 Stats 🔥</h4>
-<hr>
+<h4 align="center">🔥 States 🔥</h4>
 <br>
 <p align=center>
   <div align=center>
