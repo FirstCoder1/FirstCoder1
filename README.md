@@ -16,7 +16,7 @@ Front-End Expert, Full Stack developer with awesome web technical skills, hefty 
 <br>
 
 - 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/))
-- 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) )
+- 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/)
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions)
 - 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
@@ -42,9 +42,6 @@ Front-End Expert, Full Stack developer with awesome web technical skills, hefty 
   </a>
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="25"/>
