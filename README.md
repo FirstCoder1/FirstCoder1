@@ -121,9 +121,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=firstcoder1&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&hide=issues" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=firstcoder1&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&hide=issues" />
-    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
 </p>
