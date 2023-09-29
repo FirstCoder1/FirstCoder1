@@ -28,6 +28,6 @@
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=firstcoder1&theme=react&border=61dafb&hide_border=true&count_private=true" alt="firstcoder1" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br
 </p>
 <hr>
