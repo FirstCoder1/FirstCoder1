@@ -12,7 +12,7 @@
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <br>
 
-- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/))
+- 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/))
 - 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/) ), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/)
 - 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/)
 - 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions)
